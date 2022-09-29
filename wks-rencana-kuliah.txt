@@ -1,6 +1,8 @@
 RENCANA KULIAH WKS
 
 - Javascript
+  *ES6
+  *Frameworks Javascript
 - PHP Frameworks
 - Web 
 - Visual Code
