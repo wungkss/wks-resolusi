@@ -4,6 +4,7 @@ RENCANA KULIAH WKS
   *ES6
   *Frameworks Javascript
    ^ Vue
+   ^ React
 - Netbeans
 - PHP Frameworks
   ^ Laravel
