@@ -1,7 +1,8 @@
-RENCANA KULIAH WKS
+RENCANA KULIAH WKS NDY
 
 - Javascript
-  *ES6
+  *YSL7
+  *String
   *Frameworks Javascript
    ^ Vue
    ^ React
