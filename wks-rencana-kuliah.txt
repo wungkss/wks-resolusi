@@ -3,6 +3,7 @@ RENCANA KULIAH WKS
 - Javascript
   *ES6
   *Frameworks Javascript
+- Netbeans
 - PHP Frameworks
 - Web 
 - Visual Code
